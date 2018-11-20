@@ -1,12 +1,3 @@
-####################################################
-# Author : Nishant Shah
-#
-# This code takes an image as an input 
-# given start and goal coordinates and finds 
-# an optimal path between them.
-####################################################
-
-
 import sys
 from PIL import Image
 import copy
